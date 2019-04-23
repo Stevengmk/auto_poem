@@ -1,7 +1,7 @@
 # auto_poem
 A auto poem machine drived by keras
 
-百度云地址：
+演示视频百度云地址：
 
 
 链接：https://pan.baidu.com/s/11JxFzSGrTtIagk-hLvyRnw 
