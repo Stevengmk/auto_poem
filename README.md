@@ -7,3 +7,10 @@ blibli视频地址:
 
 运行截图：poem_1.png文件
 
+基于keras RNN 构建
+
+模型训练 4000 epoch
+
+数据集 poetry.txt
+
+没有上传模型文件，模型文件名为  poetry_model.h5
