@@ -15,8 +15,6 @@ A auto poem machine drived by keras
 
 模型训练 4000 epoch，在大数据班机器上训练较慢
 
-数据集 poetry.txt
-
 没有上传模型文件，模型文件名为  poetry_model.h5
 
 功能：1.给定第一个字，能够自动写五言绝句。2.自动写五言绝句藏头诗
@@ -47,4 +45,22 @@ def auto_write_hide(input_word,model):
 示例图片见example.npg
 
 
+
+# 代码文件内容
+
+poetryWeb:
+
+数据集 dataset/poetry.txt
+
+代码文件：
+
+my_function
+
+app.py
+
+test.py(无代码)
+
+static文件夹：存放静态文件
+
+templates：存放主界面index.html
 
