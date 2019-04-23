@@ -27,20 +27,24 @@ A auto poem machine drived by keras
 
 # 示例：
 
-···
+
 
 ```python
 def auto_write_hide(input_word,model):
     return model.predict_hide(input_word)
 ```
 
-···
 
-···
+
+
 
 输入：风花雪月
 
-输出![1556006513632](C:\Users\Steven\AppData\Roaming\Typora\typora-user-images\1556006513632.png)
+输出：风北延空华，花来应能翠。雪横气一日，月影桂臣无。
 
-···
+
+
+示例图片见example.npg
+
+
 
