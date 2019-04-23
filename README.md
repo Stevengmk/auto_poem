@@ -1,7 +1,11 @@
 # auto_poem
 A auto poem machine drived by keras
 
-blibli视频地址:
+百度云地址：
+
+
+链接：https://pan.baidu.com/s/11JxFzSGrTtIagk-hLvyRnw 
+提取码：jfxv 
 
 运行方法：启动flask，app.py 点击http://127.0.0.1:5000/
 
@@ -14,3 +18,5 @@ blibli视频地址:
 数据集 poetry.txt
 
 没有上传模型文件，模型文件名为  poetry_model.h5
+
+
